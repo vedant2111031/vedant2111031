@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi 👋! My name is Vedant Pandey and I'm a Web developer</b></h1>
+<h1 align="center"><b>Hi 👋! I am Vedant Pandey and I'm a Full Stack Web Developer</b></h1>
 
 ###
 

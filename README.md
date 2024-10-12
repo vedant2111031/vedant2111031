@@ -92,6 +92,6 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning-mern development and having a good hand over Rust & Go.<br>💬 Ask me about-Web development.<br>🤝 I’m looking for help in building something new and fantabulous.</p>
+<p align="left">🌱 I’m having a good hand over Web development and learning Rust & Go.<br>💬 Ask me about Web development.<br>🤝 I’m seeking help building something new and fantabulous.</p>
 
 ###
